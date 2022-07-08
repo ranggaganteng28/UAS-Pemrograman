@@ -8,7 +8,7 @@
 | **Kelas** | TI.20.A2 |
 | **Mata Kuliah** | Pemrograman Web |
 
-## Link PDF : 
+## Link PDF : https://drive.google.com/file/d/1G9MIoJTkQOcQqaFv2IKInREWQmxMEILz/view?usp=sharing
 
 ## Link Demo Web : http://ranggasaputra09.my.id/
 

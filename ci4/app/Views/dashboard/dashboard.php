@@ -35,7 +35,7 @@
                                     </div>
                                     <div class="card-body">
                                         <h1 style=font-size:160px><?php if ($dipanggil[0]) {
-                                                                        echo $dipanggil[0]['no_antrian'];
+                                                                        echo $dipanggil[3]['no_antrian'];
                                                                     } else {
                                                                         echo '-';
                                                                     } ?> </h1>
